@@ -21,7 +21,7 @@ CIRCUIT DIAGRAM:
 
 
 ![WhatsApp Image 2025-12-27 at 7 08 12 PM (1)](https://github.com/user-attachments/assets/8783c5bf-87ce-41b9-89f4-31f183964277)
-<img width="1196" height="449" alt="exp5 (2)" src="https://github.com/user-attachments/assets/0025b49a-e0dc-458a-a774-095d77141abd" />
+<img width="1259" height="475" alt="exp5 (3)" src="https://github.com/user-attachments/assets/c377dde6-66d1-4afc-aab9-547d8aa482c1" />
 
 
 
